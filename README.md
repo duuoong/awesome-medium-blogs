@@ -10,7 +10,7 @@ I started out as a GIS software developer, and wanted to become a data scientist
 
 ## Data Science
 
-* [How to Effectively Learn Data Science]([https://github.com/keon/algorithms](https://medium.com/illumination/how-to-effectively-learn-data-science-in-2024-b3f508db4f67)) 
+* [How to Effectively Learn Data Science](https://medium.com/illumination/how-to-effectively-learn-data-science-in-2024-b3f508db4f67)
 
 - - -
 
