@@ -1,4 +1,6 @@
-# I started out as a GIS software developer, and wanted to become a data scientist. I spent time reading tech articles on Medium every day and found it really interesting and a great habit. I wanted to share the articles I found useful on Medium for those who want to make the transition from software development to data science. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Medium Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+I started out as a GIS software developer, and wanted to become a data scientist. I spent time reading tech articles on Medium every day and found it really interesting and a great habit. I wanted to share the articles I found useful on Medium for those who want to make the transition from software development to data science. 
 
 ---
 
