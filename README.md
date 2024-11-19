@@ -14,6 +14,8 @@ List of contents:
 - [Geospatial](#geospatial)
 - [Other](#other)
 
+to be continued....
+
 ---
 
 ## Spatial Data Science
@@ -71,7 +73,6 @@ List of contents:
 * [The Digitalization of Airport and Airlines with IoT and Data Streaming using Kafka and Flink](https://kai-waehner.medium.com/the-digitalization-of-airport-and-airlines-with-iot-and-data-streaming-using-kafka-and-flink-20861d7183ab)
 * [ETL end-end Real time streaming of Weather forecast data using Dockerzised Airflow,OpenWeather API,Python,PostgresDB](https://sairamdgr8.medium.com/etl-end-end-real-time-streaming-of-weather-forecast-data-using-dockerzised-airflow-openweather-d387d07d2529)
 * [Data engineers handle the extraction, transformation, and loading (ETL) processes, build data pipelines, and maintain data infrastructure](https://medium.com/@kombib/data-engineers-handle-the-extraction-transformation-and-loading-etl-processes-build-data-56772ca69046)
-* [
 
 ## AI and LLM
 
@@ -89,7 +90,6 @@ List of contents:
 * [Pytorch vs. TensorFlow: Which Framework to Choose?](https://medium.com/@byanalytixlabs/pytorch-vs-tensorflow-which-framework-to-choose-ed649d9e7a35)
 * [Why Do AI Projects Fail?](https://towardsdatascience.com/why-do-ai-projects-fail-9b07f32ce321)
 * [Apache Kafka + Vector Database + LLM = Real-Time GenAI](https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85)
-* 
 
 ## SQL and Database
 
