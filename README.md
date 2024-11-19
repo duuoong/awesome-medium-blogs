@@ -39,7 +39,7 @@ I started out as a GIS software developer, and wanted to become a spatial data s
 
 ## Other
 
-* [https://medium.com/@tanner.overcash/exploring-network-analysis-an-introduction-to-graph-theory-algorithms-and-how-theyre-used-in-f7f4854654c](https://blog.devgenius.io/11-open-source-saas-killer-selfhost-with-docker-034456653568)
+* [11 Open-Source SaaS Killer — Selfhost With Docker](https://blog.devgenius.io/11-open-source-saas-killer-selfhost-with-docker-034456653568)
 
 - - -
 
