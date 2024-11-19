@@ -2,6 +2,18 @@
 
 I started out as a GIS software developer, and wanted to become a spatial data scientist. I spent time reading tech articles on Medium every day and found it really interesting and a great habit. I wanted to share the articles I found useful on Medium for those who want to make the transition from software development to data science and geospatial 
 
+List of contents:
+- [Spatial Data Science](#spatial-data-science)
+- [Data Science, Data Engineer and Data Analysis](#data-science-data-engineer-and-data-analysis)
+- [ETL and ELT](#etl-and-elt)
+- [AI and LLM](#ai-and-llm)
+- [SQL and Database](#sql-and-database)
+- [Python](#python)
+- [Google Earth Engine](#google-earth-engine)
+- [Visualization](#visualization)
+- [Geospatial](#geospatial)
+- [Other](#other)
+
 ---
 
 ## Spatial Data Science
