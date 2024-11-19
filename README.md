@@ -30,6 +30,8 @@ I started out as a GIS software developer, and wanted to become a spatial data s
 * [How to read JSON Data in PostgreSQL](https://medium.com/@tech.interview.buddies/how-to-read-json-data-in-postgresql-2fe5f8565218 )
 * [Solve 50 SQL questions — to move from zero to hero : Free E-Book](https://levelup.gitconnected.com/solve-50-sql-questions-to-move-from-zero-to-hero-free-e-book-6e7ee70c93f8)
 * [PostgreSQL Utility Functions](https://medium.com/@vbilopav/postgresql-utility-functions-c2134309da42)
+* [Beginner’s Guide to ClickHouse: Introduction, Features, and Getting Started](https://medium.com/@suffyan.asad1/beginners-guide-to-clickhouse-introduction-features-and-getting-started-55315107399a)
+* [Revolutionizing Text-to-SQL Evaluation: A Deep Dive into PEFT, PostgreSQL, ChromaDB, and Semantic Similarity](https://ai.plainenglish.io/revolutionizing-text-to-sql-evaluation-a-deep-dive-into-peft-postgresql-chromadb-and-semantic-dce223397bcb)
 
 ## Python
 
