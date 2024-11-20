@@ -117,6 +117,7 @@ to be continued....
 * [Detect anomalies in streaming data using Python and machine learning](https://redpanda-data.medium.com/detect-anomalies-in-streaming-data-using-python-and-machine-learning-6c8c831c507d)
 * [15 Essential Geospatial Python Libraries](https://medium.com/@thukupeter487/15-essential-geospatial-python-libraries-7e13f739a3df)
 * [Mojo, 90,000 Times Faster Than Python](https://blog.stackademic.com/mojo-90-000-times-faster-than-python-finally-open-sourced-777bdd9a1896)
+* [Why Python is Better than R for Data Analysis](https://python.plainenglish.io/why-python-is-better-than-r-for-data-analysis-617803fb9e0f)
 
 ## Google Earth Engine
 
@@ -127,6 +128,7 @@ to be continued....
 * [Interactive web mapping with Django and Google Earth Engine](https://medium.com/@bikesbade/interactive-web-mapping-with-django-and-google-earth-engine-b2141faf271e)
 * [4 Useful Remote Sensing Indices like NDVI](https://medium.com/spatial-data-science/4-useful-remote-sensing-indices-like-ndvi-2504383c6e54)
 * [Zonal Statistics Using Google Earth Engine and Visualisation Using Python](https://medium.com/@wardarahim25/zonal-statistics-using-google-earth-engine-and-visualisation-using-python-fb74cc1b1efc)
+* [Google Earth Engine to Analyze Landsat Imagery — Time Series](https://levelup.gitconnected.com/google-earth-engine-to-analyze-landsat-imagery-time-series-bd0044672845)
 
 ## Visualization
 
@@ -134,7 +136,6 @@ to be continued....
 * [Visualize the German Railway System with Kepler.gl](https://medium.com/geekculture/visualize-the-german-railway-system-with-kepler-gl-91aea7f063a9)
 * [What is the difference between a BI Developer and a Data Engineer?](https://medium.com/gousto-engineering-techbrunch/what-is-the-difference-between-a-bi-developer-and-a-data-engineer-bcf496d2c2ad)
 * [How I Created a Kaggle-Like Platform for My Students Using Streamlit and How You Can Do It as Well](https://towardsdatascience.com/how-i-created-a-kaggle-like-platform-for-my-students-using-streamlit-and-how-you-can-do-it-as-well-5fd10671f559)
-* [Visualize the German Railway System with Kepler.gl](https://medium.com/geekculture/visualize-the-german-railway-system-with-kepler-gl-91aea7f063a9)
 
 ## Geospatial
 
@@ -142,6 +143,8 @@ to be continued....
 * [3 Popular Methods for Spatial Interpolation](https://towardsdatascience.com/3-best-methods-for-spatial-interpolation-912cab7aee47)
 * [Identifying Topical Hot Spots in Urban Areas](https://towardsdatascience.com/identifying-topical-hot-spots-in-urban-areas-3c47cde5ae10)
 * [Exploring Location Data Using a Hexagon Grid](https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2)
+* [5 Python-Powered GIS Startups You Can Launch Today](https://medium.com/tierra-insights/5-python-powered-gis-startups-you-can-launch-today-aec7ced6bcf5)
+* [Learn to Visualize Massive Point Clouds + 3D Mesh with No-Code Tools](https://towardsdatascience.com/learn-to-visualize-massive-point-clouds-3d-mesh-with-no-code-tools-1835dd4be37f)
 
 ## Other
 
