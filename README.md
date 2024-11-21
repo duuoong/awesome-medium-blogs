@@ -119,6 +119,7 @@ to be continued....
 * [15 Essential Geospatial Python Libraries](https://medium.com/@thukupeter487/15-essential-geospatial-python-libraries-7e13f739a3df)
 * [Mojo, 90,000 Times Faster Than Python](https://blog.stackademic.com/mojo-90-000-times-faster-than-python-finally-open-sourced-777bdd9a1896)
 * [Why Python is Better than R for Data Analysis](https://python.plainenglish.io/why-python-is-better-than-r-for-data-analysis-617803fb9e0f)
+* [Securing ML APIs with FastAPI](https://python.plainenglish.io/securing-ml-apis-with-fastapi-8e57d79c0a4f)
 
 ## Google Earth Engine
 
@@ -130,6 +131,7 @@ to be continued....
 * [4 Useful Remote Sensing Indices like NDVI](https://medium.com/spatial-data-science/4-useful-remote-sensing-indices-like-ndvi-2504383c6e54)
 * [Zonal Statistics Using Google Earth Engine and Visualisation Using Python](https://medium.com/@wardarahim25/zonal-statistics-using-google-earth-engine-and-visualisation-using-python-fb74cc1b1efc)
 * [Google Earth Engine to Analyze Landsat Imagery — Time Series](https://levelup.gitconnected.com/google-earth-engine-to-analyze-landsat-imagery-time-series-bd0044672845)
+* [Time to Leave the Nest: Migrating from Google Earth Engine](https://medium.com/rotten-grapes/time-to-leave-the-nest-migrating-from-google-earth-engine-93ca4b231dd9)
 
 ## Visualization
 
