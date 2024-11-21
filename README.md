@@ -37,6 +37,7 @@ to be continued....
 * [A Comprehensive Overview of GPS Data Processing](https://python.plainenglish.io/a-comprehensive-overview-on-gps-data-processing-in-python-a6d602d069e0)
 * [Spatial Machine Learning](https://justinmorganwilliams.medium.com/spatial-machine-learning-29137dcd1f5f)
 * [Navigating Deep Learning and Machine Learning in GIS Solutions](https://pub.towardsai.net/charting-new-territories-navigating-deep-learning-and-machine-learning-in-gis-solutions-e16346a4568e)
+* [The Role of Machine Learning in GIS Startups](https://medium.com/tierra-insights/the-role-of-machine-learning-in-gis-startups-4640c1743bbb)
 
 ## Data Science, Data Engineer and Data Analysis
 
