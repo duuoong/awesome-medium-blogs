@@ -122,6 +122,7 @@ to be continued....
 * [Mojo, 90,000 Times Faster Than Python](https://blog.stackademic.com/mojo-90-000-times-faster-than-python-finally-open-sourced-777bdd9a1896)
 * [Why Python is Better than R for Data Analysis](https://python.plainenglish.io/why-python-is-better-than-r-for-data-analysis-617803fb9e0f)
 * [Securing ML APIs with FastAPI](https://python.plainenglish.io/securing-ml-apis-with-fastapi-8e57d79c0a4f)
+* [Don’t Fear Async: A Friendly Guide to Python’s Most Powerful Tool💪](https://python.plainenglish.io/dont-fear-async-a-friendly-guide-to-python-s-most-powerful-tool-a45f4a477a81)
 
 ## Google Earth Engine
 
