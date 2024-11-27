@@ -108,6 +108,7 @@ to be continued....
 * [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [Top 10 Advanced SQL Queries](https://blog.devops.dev/top-10-advanced-sql-queries-dd5717b7e902)
 * [Spatial Analysis of Big Data with pgvector](https://savasalturk.medium.com/spatial-analysis-of-big-data-with-pgvector-finding-the-nearest-point-among-100-million-points-in-6b7276de8462)
+* [Why PostgreSQL is the Most Popular Database?](https://medium.com/stackademic/why-postgresql-is-the-most-popular-database-005f9a373b95)
 
 ## Python
 
