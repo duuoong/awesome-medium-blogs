@@ -93,6 +93,7 @@ to be continued....
 * [Pytorch vs. TensorFlow: Which Framework to Choose?](https://medium.com/@byanalytixlabs/pytorch-vs-tensorflow-which-framework-to-choose-ed649d9e7a35)
 * [Why Do AI Projects Fail?](https://towardsdatascience.com/why-do-ai-projects-fail-9b07f32ce321)
 * [Apache Kafka + Vector Database + LLM = Real-Time GenAI](https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85)
+* [Every Step of the Machine Learning Life Cycle Simply Explained](https://medium.com/towards-data-science/every-step-of-the-machine-learning-life-cycle-simply-explained-d1bca7c1772f)
 
 ## SQL and Database
 
