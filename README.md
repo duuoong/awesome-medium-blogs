@@ -109,6 +109,7 @@ to be continued....
 * [Top 10 Advanced SQL Queries](https://blog.devops.dev/top-10-advanced-sql-queries-dd5717b7e902)
 * [Spatial Analysis of Big Data with pgvector](https://savasalturk.medium.com/spatial-analysis-of-big-data-with-pgvector-finding-the-nearest-point-among-100-million-points-in-6b7276de8462)
 * [Why PostgreSQL is the Most Popular Database?](https://medium.com/stackademic/why-postgresql-is-the-most-popular-database-005f9a373b95)
+* [Memory Matters in PostgreSQL : Configuring max_connections and work_mem Effectively](https://demirhuseyinn-94.medium.com/memory-matters-in-postgresql-configuring-max-connections-and-work-mem-effectively-19045fa5d548)
 
 ## Python
 
@@ -124,6 +125,7 @@ to be continued....
 * [Why Python is Better than R for Data Analysis](https://python.plainenglish.io/why-python-is-better-than-r-for-data-analysis-617803fb9e0f)
 * [Securing ML APIs with FastAPI](https://python.plainenglish.io/securing-ml-apis-with-fastapi-8e57d79c0a4f)
 * [Don’t Fear Async: A Friendly Guide to Python’s Most Powerful Tool💪](https://python.plainenglish.io/dont-fear-async-a-friendly-guide-to-python-s-most-powerful-tool-a45f4a477a81)
+* [Level Up Your Coding Skills with Python Threading](https://towardsdatascience.com/level-up-your-coding-skills-with-python-threading-8f1bd06b9476)
 
 ## Google Earth Engine
 
