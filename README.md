@@ -94,6 +94,7 @@ to be continued....
 * [Why Do AI Projects Fail?](https://towardsdatascience.com/why-do-ai-projects-fail-9b07f32ce321)
 * [Apache Kafka + Vector Database + LLM = Real-Time GenAI](https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85)
 * [Every Step of the Machine Learning Life Cycle Simply Explained](https://medium.com/towards-data-science/every-step-of-the-machine-learning-life-cycle-simply-explained-d1bca7c1772f)
+* [Deploying Machine Learning Models Like a Pro](https://medium.com/ai-in-plain-english/from-jupyter-to-production-deploying-machine-learning-models-like-a-pro-592106792676)
 
 ## SQL and Database
 
