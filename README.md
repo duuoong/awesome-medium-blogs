@@ -166,4 +166,4 @@ to be continued....
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate open an issue on GitHub. If you want to read articles on Medium for free, you can use https://freedium.cfd/
+All articles listed are my personal opinions. If you have any question about this opinionated list, do not hesitate open an issue on GitHub. If you want to read articles on Medium for free, you can use https://freedium.cfd/
