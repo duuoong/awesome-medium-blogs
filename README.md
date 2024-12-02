@@ -169,4 +169,6 @@ to be continued....
 
 - - -
 
-All articles listed are my personal opinions. If you have any question about this opinionated list, do not hesitate open an issue on GitHub. If you want to read articles on Medium for free, you can use https://freedium.cfd/
+All articles listed are my personal opinions. If you have any question about this opinionated list, do not hesitate open an issue on GitHub. 
+
+If you don't have the conditions to buy a membership account, you can read articles on Medium for free here https://freedium.cfd/. Of course if you have the conditions, I recommend you respect the efforts of the authors and Medium by registering for a membership account like I am doing.
