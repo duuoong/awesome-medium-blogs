@@ -112,6 +112,7 @@ to be continued....
 * [Spatial Analysis of Big Data with pgvector](https://savasalturk.medium.com/spatial-analysis-of-big-data-with-pgvector-finding-the-nearest-point-among-100-million-points-in-6b7276de8462)
 * [Why PostgreSQL is the Most Popular Database?](https://medium.com/stackademic/why-postgresql-is-the-most-popular-database-005f9a373b95)
 * [Memory Matters in PostgreSQL : Configuring max_connections and work_mem Effectively](https://demirhuseyinn-94.medium.com/memory-matters-in-postgresql-configuring-max-connections-and-work-mem-effectively-19045fa5d548)
+* [Efficiently RePartitioning Large Tables in PostgreSQL](https://medium.com/adyen/efficiently-repartitioning-large-tables-in-postgresql-4d170139b7b8)
 
 ## Python
 
