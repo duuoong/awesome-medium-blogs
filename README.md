@@ -39,6 +39,7 @@ to be continued....
 * [Navigating Deep Learning and Machine Learning in GIS Solutions](https://pub.towardsai.net/charting-new-territories-navigating-deep-learning-and-machine-learning-in-gis-solutions-e16346a4568e)
 * [The Role of Machine Learning in GIS Startups](https://medium.com/tierra-insights/the-role-of-machine-learning-in-gis-startups-4640c1743bbb)
 * [8 Challenges in Transitioning to GIS Data Scientist](https://medium.com/tierra-insights/8-challenges-in-transitioning-to-gis-data-scientist-and-how-to-overcome-them-f34cf45c40c4)
+* [GPS Interpolation Using Maps and Kinematics](https://towardsdatascience.com/gps-interpolation-using-maps-and-kinematics-6a56fdf29179)
 
 ## Data Science, Data Engineer and Data Analysis
 
