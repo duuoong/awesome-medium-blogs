@@ -77,7 +77,7 @@ to be continued....
 * [ETL end-end Real time streaming of Weather forecast data using Dockerzised Airflow,OpenWeather API,Python,PostgresDB](https://sairamdgr8.medium.com/etl-end-end-real-time-streaming-of-weather-forecast-data-using-dockerzised-airflow-openweather-d387d07d2529)
 * [Data engineers handle the extraction, transformation, and loading (ETL) processes, build data pipelines, and maintain data infrastructure](https://medium.com/@kombib/data-engineers-handle-the-extraction-transformation-and-loading-etl-processes-build-data-56772ca69046)
 * [Predicting Car Prices with FastAPI, Streamlit, MLflow, Kafka, and Debezium](https://medium.com/towards-data-engineering/predicting-car-prices-with-fastapi-streamlit-mlflow-kafka-and-debezium-a-practical-7084d5673c0e)
-* [Change Data Capture (CDC): Comprehensive Guide-PostgreSQL To S3(MinIO) Using NiFi)[https://blog.det.life/change-data-capture-cdc-comprehensive-guide-postgresql-to-s3-minio-using-nifi-113ecda10ea3]
+* [Change Data Capture (CDC): Comprehensive Guide-PostgreSQL To S3(MinIO) Using NiFi](https://blog.det.life/change-data-capture-cdc-comprehensive-guide-postgresql-to-s3-minio-using-nifi-113ecda10ea3)
 
 ## AI and LLM
 
