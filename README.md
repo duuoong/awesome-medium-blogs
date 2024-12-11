@@ -169,6 +169,7 @@ to be continued....
 * [5 Best Open-Source No-Code Tools for Project Management](https://medium.com/@nocobase/5-best-open-source-no-code-tools-for-project-management-bfb7cfcceb1e)
 * [Top 8 Open-Source CRUD Projects with the Most GitHub Stars](https://medium.com/@nocobase/top-8-open-source-crud-projects-with-the-most-github-stars-04a64a95dd3f)
 * [How We Solve Load Balancing Challenges in Apache Kafka](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b )
+* [14 VS Code Extensions Every Data Engineer Should Swear By for Maximum Productivity](https://medium.com/@manojkumar.vadivel/14-vs-code-extensions-every-data-engineer-should-swear-by-for-maximum-productivity-9fcc2e1b3c4f)
 
 - - -
 
