@@ -40,6 +40,7 @@ to be continued....
 * [The Role of Machine Learning in GIS Startups](https://medium.com/tierra-insights/the-role-of-machine-learning-in-gis-startups-4640c1743bbb)
 * [8 Challenges in Transitioning to GIS Data Scientist](https://medium.com/tierra-insights/8-challenges-in-transitioning-to-gis-data-scientist-and-how-to-overcome-them-f34cf45c40c4)
 * [GPS Interpolation Using Maps and Kinematics](https://towardsdatascience.com/gps-interpolation-using-maps-and-kinematics-6a56fdf29179)
+* [7 Ways to Boost Your Python Skill as a GIS Data Scientist In 2025](https://medium.com/tierra-insights/7-ways-to-boost-your-python-skill-as-a-gis-data-scientist-in-2025-852793f43ec4)
 
 ## Data Science, Data Engineer and Data Analysis
 
