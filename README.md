@@ -98,6 +98,7 @@ to be continued....
 * [Apache Kafka + Vector Database + LLM = Real-Time GenAI](https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85)
 * [Every Step of the Machine Learning Life Cycle Simply Explained](https://medium.com/towards-data-science/every-step-of-the-machine-learning-life-cycle-simply-explained-d1bca7c1772f)
 * [Deploying Machine Learning Models Like a Pro](https://medium.com/ai-in-plain-english/from-jupyter-to-production-deploying-machine-learning-models-like-a-pro-592106792676)
+* [11 AI Tools You Won’t Believe Are Free](https://medium.com/@masteratai/11-ai-tools-you-wont-believe-are-free-f673e1d0faa3)
 
 ## SQL and Database
 
