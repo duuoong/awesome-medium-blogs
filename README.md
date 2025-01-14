@@ -119,6 +119,7 @@ to be continued....
 * [Efficiently RePartitioning Large Tables in PostgreSQL](https://medium.com/adyen/efficiently-repartitioning-large-tables-in-postgresql-4d170139b7b8)
 * [A famous Postgres-compatible SQL Streaming database](https://towardsdev.com/what-is-risingwave-a3f51053aba5)
 * [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://medium.com/cryoscript/7-free-postgresql-hosting-platforms-for-developers-in-2024-4b83193a54a3)
+* [Making PostgreSQL Run SQL Faster](https://blog.devops.dev/making-postgresql-run-sql-faster-41dbf83f6b57)
 
 ## Python
 
