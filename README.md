@@ -122,6 +122,7 @@ to be continued....
 * [A famous Postgres-compatible SQL Streaming database](https://towardsdev.com/what-is-risingwave-a3f51053aba5)
 * [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://medium.com/cryoscript/7-free-postgresql-hosting-platforms-for-developers-in-2024-4b83193a54a3)
 * [Making PostgreSQL Run SQL Faster](https://blog.devops.dev/making-postgresql-run-sql-faster-41dbf83f6b57)
+* [How to Configure PostgreSQL for Maximum Efficiency](https://medium.com/@hasankaya53/how-to-configure-postgresql-for-maximum-efficiency-098937de2d80)
 
 ## Python
 
