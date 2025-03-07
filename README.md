@@ -123,6 +123,7 @@ to be continued....
 * [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://medium.com/cryoscript/7-free-postgresql-hosting-platforms-for-developers-in-2024-4b83193a54a3)
 * [Making PostgreSQL Run SQL Faster](https://blog.devops.dev/making-postgresql-run-sql-faster-41dbf83f6b57)
 * [How to Configure PostgreSQL for Maximum Efficiency](https://medium.com/@hasankaya53/how-to-configure-postgresql-for-maximum-efficiency-098937de2d80)
+* [Enhancing Text-to-SQL with a Fine-Tuned 7B LLM for Database Interactions](https://yia333.medium.com/enhancing-text-to-sql-with-a-fine-tuned-7b-llm-for-database-interactions-fa754dc2e992)
 
 ## Python
 
