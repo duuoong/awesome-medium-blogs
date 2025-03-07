@@ -101,6 +101,7 @@ to be continued....
 * [11 AI Tools You Won’t Believe Are Free](https://medium.com/@masteratai/11-ai-tools-you-wont-believe-are-free-f673e1d0faa3)
 * [Web Scraping for $2/Day: Build a Cheap, Powerful Bot with DeepSeek V3 + Python](https://blog.det.life/web-scraping-for-2-day-build-a-cheap-powerful-bot-with-deepseek-v3-python-546572c97617)
 * [How to Distill a LLM: Step-by-step](https://medium.com/data-science-collective/how-to-distill-a-llm-step-by-step-58f06fcf4bfa)
+* [Developing RAG Systems with DeepSeek R1 & Ollama (Complete Code Included)](https://sebastian-petrus.medium.com/developing-rag-systems-with-deepseek-r1-ollama-f2f561cfda97)
 
 ## SQL and Database
 
