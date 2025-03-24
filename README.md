@@ -103,6 +103,8 @@ to be continued....
 * [How to Distill a LLM: Step-by-step](https://medium.com/data-science-collective/how-to-distill-a-llm-step-by-step-58f06fcf4bfa)
 * [Developing RAG Systems with DeepSeek R1 & Ollama (Complete Code Included)](https://sebastian-petrus.medium.com/developing-rag-systems-with-deepseek-r1-ollama-f2f561cfda97)
 * [Beginner’s step-by-step guide To Build A RAG Application From Scratch](https://medium.com/emalpha/your-first-rag-5844527aab4a)
+* [Creating Your Personal Chatbot Using HuggingFace Spaces and Streamlit](https://medium.com/@james.irving.phd/creating-your-personal-chatbot-using-hugging-face-spaces-and-streamlit-596a54b9e3ed)
+* [Top 5 AI Projects for 2025 (Beginner to Advanced)](https://medium.com/towards-artificial-intelligence/top-5-ai-projects-for-2025-beginner-to-advanced-cbedfea93ace)
 
 ## SQL and Database
 
