@@ -184,6 +184,7 @@ to be continued....
 * [How We Solve Load Balancing Challenges in Apache Kafka](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b )
 * [14 VS Code Extensions Every Data Engineer Should Swear By for Maximum Productivity](https://medium.com/@manojkumar.vadivel/14-vs-code-extensions-every-data-engineer-should-swear-by-for-maximum-productivity-9fcc2e1b3c4f)
 * [How I built a SaaS product with 100% AI generated code](https://sakkyb.medium.com/how-i-built-a-saas-product-with-100-ai-generated-code-5728e0c97c8d)
+* [How These 7 Open-Source .NET Projects Solve Real Developer Pain Points](https://medium.com/@hasanmcse/how-these-7-open-source-net-projects-solve-real-developer-pain-points-5c8bd05d3da0)
 
 - - -
 
