@@ -106,6 +106,7 @@ to be continued....
 * [Beginner’s step-by-step guide To Build A RAG Application From Scratch](https://medium.com/emalpha/your-first-rag-5844527aab4a)
 * [Creating Your Personal Chatbot Using HuggingFace Spaces and Streamlit](https://medium.com/@james.irving.phd/creating-your-personal-chatbot-using-hugging-face-spaces-and-streamlit-596a54b9e3ed)
 * [Top 5 AI Projects for 2025 (Beginner to Advanced)](https://medium.com/towards-artificial-intelligence/top-5-ai-projects-for-2025-beginner-to-advanced-cbedfea93ace)
+* [Why Text-to-SQL Falls Short in Production: Challenges and Smarter Alternatives](https://generativeai.pub/why-text-to-sql-falls-short-in-production-challenges-and-smarter-alternatives-9746e464f1cc)
 
 ## SQL and Database
 
