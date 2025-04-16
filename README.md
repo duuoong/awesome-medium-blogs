@@ -108,6 +108,7 @@ to be continued....
 * [Top 5 AI Projects for 2025 (Beginner to Advanced)](https://medium.com/towards-artificial-intelligence/top-5-ai-projects-for-2025-beginner-to-advanced-cbedfea93ace)
 * [Why Text-to-SQL Falls Short in Production: Challenges and Smarter Alternatives](https://generativeai.pub/why-text-to-sql-falls-short-in-production-challenges-and-smarter-alternatives-9746e464f1cc)
 * [10 AI Startup Ideas That Could Make You Millions](https://ai.plainenglish.io/10-ai-startup-ideas-that-could-make-you-millions-96ff92ce12a1)
+* [LLM Zero-to-Hero với Ollama](https://medium.com/cub3d/llm-zero-to-hero-with-ollama-913e50d6b7f0)
 
 ## SQL and Database
 
