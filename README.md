@@ -109,6 +109,7 @@ to be continued....
 * [Why Text-to-SQL Falls Short in Production: Challenges and Smarter Alternatives](https://generativeai.pub/why-text-to-sql-falls-short-in-production-challenges-and-smarter-alternatives-9746e464f1cc)
 * [10 AI Startup Ideas That Could Make You Millions](https://ai.plainenglish.io/10-ai-startup-ideas-that-could-make-you-millions-96ff92ce12a1)
 * [LLM Zero-to-Hero với Ollama](https://medium.com/cub3d/llm-zero-to-hero-with-ollama-913e50d6b7f0)
+* [How to Build Your Own LLM Coding Assistant With Qwen2.5-Coder](https://medium.com/data-science-collective/how-to-build-your-own-llm-coding-assistant-with-qwen2-5-coder-b26aaadf071d)
 
 ## SQL and Database
 
