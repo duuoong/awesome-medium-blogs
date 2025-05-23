@@ -135,6 +135,7 @@ to be continued....
 * [How to Configure PostgreSQL for Maximum Efficiency](https://medium.com/@hasankaya53/how-to-configure-postgresql-for-maximum-efficiency-098937de2d80)
 * [Enhancing Text-to-SQL with a Fine-Tuned 7B LLM for Database Interactions](https://yia333.medium.com/enhancing-text-to-sql-with-a-fine-tuned-7b-llm-for-database-interactions-fa754dc2e992)
 * [From Zero to Production: Building a Rock-Solid K3s Cluster with PostgreSQL](https://blogs.learningdevops.com/from-zero-to-production-building-a-rock-solid-k3s-cluster-with-postgresql-676dcd678ae4)
+* [Why Are There So Many Databases?](https://blog.det.life/why-are-there-so-many-databases-87d334c5dce6)
 
 ## Python
 
