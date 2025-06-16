@@ -194,6 +194,7 @@ to be continued....
 * [How These 7 Open-Source .NET Projects Solve Real Developer Pain Points](https://medium.com/@hasanmcse/how-these-7-open-source-net-projects-solve-real-developer-pain-points-5c8bd05d3da0)
 * [Scaling to 1 Million Users: The Architecture I Wish I Knew Sooner](https://medium.com/@kanishks772/scaling-to-1-million-users-the-architecture-i-wish-i-knew-sooner-39c688ded2f1)
 * [DevOps](https://medium.com/@devlink/your-laptop-can-run-a-full-devops-stack-heres-how-i-set-mine-up-be524be060b0)
+* [Integrating Python Scripts with .NET Web API](https://medium.com/asp-dotnet/integrating-python-scripts-with-net-web-api-why-developers-need-this-skill-d2ad070bd749)
 
 - - -
 
