@@ -136,7 +136,7 @@ to be continued....
 * [Enhancing Text-to-SQL with a Fine-Tuned 7B LLM for Database Interactions](https://yia333.medium.com/enhancing-text-to-sql-with-a-fine-tuned-7b-llm-for-database-interactions-fa754dc2e992)
 * [From Zero to Production: Building a Rock-Solid K3s Cluster with PostgreSQL](https://blogs.learningdevops.com/from-zero-to-production-building-a-rock-solid-k3s-cluster-with-postgresql-676dcd678ae4)
 * [Why Are There So Many Databases?](https://blog.det.life/why-are-there-so-many-databases-87d334c5dce6)
-
+* [PostgreSQL 20 Just Killed MongoDB — Here’s Why We Switched](https://aws.plainenglish.io/postgresql-20-just-killed-mongodb-heres-why-we-switched-b5258187bd0f)
 ## Python
 
 * [11-Python Packages That Turn Hundreds of Lines of Code into Few](https://medium.com/top-python-libraries/11-python-packages-that-turn-hundreds-of-lines-of-code-into-one-b487f9bb95de)
