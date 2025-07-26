@@ -138,6 +138,7 @@ to be continued....
 * [Why Are There So Many Databases?](https://blog.det.life/why-are-there-so-many-databases-87d334c5dce6)
 * [PostgreSQL 20 Just Killed MongoDB — Here’s Why We Switched](https://aws.plainenglish.io/postgresql-20-just-killed-mongodb-heres-why-we-switched-b5258187bd0f)
 * [Go + PostgreSQL](https://medium.com/@harishsingh8529/go-postgresql-scaling-from-1-query-second-to-100k-without-breaking-a-sweat-2e7fba6a76fe)
+* [How to Deploy a High-Availability PostgreSQL Cluster in 5 Minutes Using Ansible and Patroni](https://medium.com/@akylson/how-to-deploy-a-high-availability-postgresql-cluster-in-5-minutes-using-ansible-and-patroni-809a086018d8)
 ## Python
 
 * [11-Python Packages That Turn Hundreds of Lines of Code into Few](https://medium.com/top-python-libraries/11-python-packages-that-turn-hundreds-of-lines-of-code-into-one-b487f9bb95de)
