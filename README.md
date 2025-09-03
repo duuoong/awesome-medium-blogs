@@ -111,6 +111,7 @@ to be continued....
 * [LLM Zero-to-Hero với Ollama](https://medium.com/cub3d/llm-zero-to-hero-with-ollama-913e50d6b7f0)
 * [How to Build Your Own LLM Coding Assistant With Qwen2.5-Coder](https://medium.com/data-science-collective/how-to-build-your-own-llm-coding-assistant-with-qwen2-5-coder-b26aaadf071d)
 * [Building a Customer Support Chatbot With Ollama, Mistral 7B, SQLite, & Docker](https://medium.com/stackademic/building-a-customer-support-chatbot-with-ollama-mistral-7b-sqlite-docker-7a7b09d4a7b6)
+* [These 11 Free Frameworks Are Making Building AI Agents Easier for Everyone](https://medium.com/ai-software-engineer/these-11-free-frameworks-are-making-building-ai-agents-easier-for-everyone-449ca2255d2f)
 
 ## SQL and Database
 
