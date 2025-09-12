@@ -141,6 +141,8 @@ to be continued....
 * [Go + PostgreSQL](https://medium.com/@harishsingh8529/go-postgresql-scaling-from-1-query-second-to-100k-without-breaking-a-sweat-2e7fba6a76fe)
 * [How to Deploy a High-Availability PostgreSQL Cluster in 5 Minutes Using Ansible and Patroni](https://medium.com/@akylson/how-to-deploy-a-high-availability-postgresql-cluster-in-5-minutes-using-ansible-and-patroni-809a086018d8)
 * [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-c37a14ec2046)
+* [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-fb91c5a2c971)
+  
 ## Python
 
 * [11-Python Packages That Turn Hundreds of Lines of Code into Few](https://medium.com/top-python-libraries/11-python-packages-that-turn-hundreds-of-lines-of-code-into-one-b487f9bb95de)
