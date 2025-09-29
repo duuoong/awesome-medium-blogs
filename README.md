@@ -142,6 +142,7 @@ to be continued....
 * [How to Deploy a High-Availability PostgreSQL Cluster in 5 Minutes Using Ansible and Patroni](https://medium.com/@akylson/how-to-deploy-a-high-availability-postgresql-cluster-in-5-minutes-using-ansible-and-patroni-809a086018d8)
 * [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-c37a14ec2046)
 * [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-fb91c5a2c971)
+* [Postgres at Petabyte Scale: Practical Moves That Hold](https://medium.com/@ThinkingLoop/postgres-at-petabyte-scale-practical-moves-that-hold-6b693440c48e)
   
 ## Python
 
