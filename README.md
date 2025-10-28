@@ -143,6 +143,7 @@ to be continued....
 * [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-c37a14ec2046)
 * [PostgreSQL for Real-Time Apps: Performance Techniques](https://medium.com/@rizqimulkisrc/postgresql-for-real-time-apps-performance-techniques-fb91c5a2c971)
 * [Postgres at Petabyte Scale: Practical Moves That Hold](https://medium.com/@ThinkingLoop/postgres-at-petabyte-scale-practical-moves-that-hold-6b693440c48e)
+* [Scaling PostgreSQL Monitoring at Trendyol: Our Journey with pgwatch](https://medium.com/trendyol-tech/scaling-postgresql-monitoring-at-trendyol-our-journey-with-pgwatch-1556faa81d24)
   
 ## Python
 
